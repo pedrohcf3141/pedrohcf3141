@@ -1,5 +1,3 @@
-<h1>Hello 👋</h1>
-
 <h2>I Write Code e Solve Problems</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

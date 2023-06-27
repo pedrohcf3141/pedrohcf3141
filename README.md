@@ -3,10 +3,10 @@
 <h2>I Write Code e Solve Problems</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrohcf3141&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000019" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrohcf3141&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000019"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcf3141&bg_color=000019&text_color=ffffff&title_color=ffffff&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcf3141&bg_color=000019&text_color=ffffff&title_color=ffffff&layout=compact"/>
 </a>
 
 <h3>Social networks</h3>

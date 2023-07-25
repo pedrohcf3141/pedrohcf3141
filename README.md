@@ -9,7 +9,7 @@
 
 <h3>Social networks</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/pedrohcf314/](https://www.linkedin.com/in/pedrohcfernandes314/))](https://www.linkedin.com/in/pedrohcf314/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/pedrohcfernandes314/](https://www.linkedin.com/in/pedrohcfernandes314/))](https://www.linkedin.com/in/pedrohcfernandes314/)
 
 
 
